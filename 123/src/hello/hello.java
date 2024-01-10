@@ -8,8 +8,13 @@ public class hello {
 		System.out.println("new branch created");
 		System.out.println("new branch3 created");
 		System.out.println("new branch4 created");
+		
+	
 
 
+	}
+	void newbranch() {
+		System.out.println("Merge and pull");
 	}
 
 }
